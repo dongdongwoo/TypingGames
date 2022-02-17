@@ -26,6 +26,7 @@ function historyRouterPush (pathName, el) {
   renderHTML(el, routes[pathName])
 }
 
+
 // render
 function renderHTML (el, route) {
   el.innerHTML = route
