@@ -4,7 +4,7 @@
 - **사용 Tool : Vs Code**   
 - **사용 Test 라이브러리 : Jest**
 ## 해결방안
-- routing.js - content-app부분이 변경되는 history (Browser History)를 사용한 SPA routing 구현
+- routing.js - content-app부분이 변경되는 history (Browser History)를 사용한 SPA routing구현
 ```swift
 // template
 const gameStartTemplate = require('./pages/gameStart.hbs')
